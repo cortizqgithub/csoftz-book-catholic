@@ -25,4 +25,6 @@ include::blocks/introduction.adoc[]
 
 include::blocks/pepe-alonso.adoc[]
 
+include::blocks/prayers.adoc[]
+
 
