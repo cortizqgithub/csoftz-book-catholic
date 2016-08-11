@@ -1,0 +1,30 @@
+:title: My Catholic Texts
+:author: CSoftZ - Carlos Adolfo Ortiz Q.
+:email:  carlosaortiz@yahoo.com 
+:revnumber: 1.0.0.1
+:revdate:   {docdate}
+:subject: My Catholic Texts
+:keywords: GOD
+:doctype: book
+:toc: 
+:toc-title: Contents
+:toclevels: 5
+:icons: font
+:lang: en
+:language: javadocript
+ifndef::ebook-format[:leveloffset: 1]
+= {title}
+
+[colophon]
+include::blocks/colophon.adoc[]
+
+[preface]
+include::blocks/preface.adoc[]
+
+include::blocks/introduction.adoc[]
+
+include::blocks/pepe-alonso.adoc[]
+
+include::blocks/prayers.adoc[]
+
+
