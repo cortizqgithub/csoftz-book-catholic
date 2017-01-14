@@ -2,6 +2,12 @@
 
 V1.0.0.4 Jan.14/2017
 
+== Versions
+*General:* See this file header.{zwsp} +
+*English:* V1.0.0.3 Jan.14/2017{zwsp} +
+*Spanish:* V1.0.0.3 Jan.14/2017{zwsp} +
+
+== Introduction
 This is a gradle project to write and compile the ASCIIDOCTOR files to generate HTML, PDF, DocBook & epub3 backends for my personal book of all I learn as a developer.
 Ths _src/main/docs/asciidoc_ folder contains the book sources.
 
@@ -20,8 +26,3 @@ Modules contained are.
 
 * *English:* Contains prayers in English, go to that directory and generate book using the README therein.
 * *Spanish:* Contains prayers in Spanish, go to that directory and generate book using the README therein.
-
-== Versions
-*General:* See this file header.{zwsp} +
-*English:* V1.0.0.3 Jan.13/2017{zwsp} +
-*Spanish:* V1.0.0.3 Jan.13/2017{zwsp} +
