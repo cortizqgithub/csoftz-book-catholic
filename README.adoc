@@ -1,6 +1,6 @@
 = csoftz-book-catholic 
 
-V1.0.0.3 Aug.25/2016
+V1.0.0.4 Jan.14/2017
 
 This is a gradle project to write and compile the ASCIIDOCTOR files to generate HTML, PDF, DocBook & epub3 backends for my personal book of all I learn as a developer.
 Ths _src/main/docs/asciidoc_ folder contains the book sources.
@@ -15,3 +15,13 @@ Convert the AsciiDoc to HTML, PDF, DocBook & epub3 by invoking the 'asciidoctor'
  $ ./gradlew clean asciidoc
  $ ./gradlew asciidoc
 
+This is the main README for the whole project.
+Modules contained are.
+
+* *English:* Contains prayers in English, go to that directory and generate book using the README therein.
+* *Spanish:* Contains prayers in Spanish, go to that directory and generate book using the README therein.
+
+== Versions
+*General:* See this file header.{zwsp} +
+*English:* V1.0.0.3 Jan.13/2017{zwsp} +
+*Spanish:* V1.0.0.3 Jan.13/2017{zwsp} +
