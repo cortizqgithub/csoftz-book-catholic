@@ -111,3 +111,12 @@ Por último, anda conmigo y déjame saber que así es.{zwsp} +
 {zwsp} +
 *Amén.*
 
+= Señor mío y Dios mío
+"Señor mío y Dios mío, {zwsp} +
+aleja de mí todo lo que me aleje de tí. {zwsp} +
+Señor mío y Dios mío, {zwsp} +
+concédeme todo lo que me acerque a tí. {zwsp} +
+Señor mío y Dios mío, {zwsp} +
+librame de mi mismo y concédeme poseerte solo a ti.{zwsp} +
+{zwsp} +
+*Amén*
